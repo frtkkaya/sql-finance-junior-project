@@ -1,4 +1,6 @@
 # SQL Baby Project 
+
+This project is a small SQL lab I built to practice modeling financial data and queries, similar to tasks in corporate/investment banking
 A repository to demonstrate practical SQL skills for finance (markets data, trades, FX) with  reasoning, comments, and documentation.
 
 ## Why this  exists
