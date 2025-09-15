@@ -38,5 +38,4 @@ erDiagram
 - Portable SQL (keeps to SQLite features unless noted).
 - Honest caveats about toy data and z-score interpretability.
 
-## Author & provenance
-Created by **Fırat Akkaya** (Istanbul, Sep 2025) as a knowledge showcase during investment banking / corporate banking applications.
+
